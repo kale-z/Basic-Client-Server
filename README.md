@@ -1,5 +1,5 @@
 # Client-Server-Practice
-This is a basic and simple Client-Server connection program by Socket Programming.
+This is a basic TCP implementation and simple Client-Server connection program by Socket Programming.
 
 ## Usage
 1. Run the server script file (```Server.py```) to be able to recieve connections from client.
